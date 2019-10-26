@@ -1,0 +1,33 @@
+{
+  "title": "transloco en",
+  "dynamic": "transloco {{value}}",
+  "user_menu": {
+    "settings": "Settings",
+    "signed_in_as": "Signed in as",
+    "sign_out": "Sign out"
+  },
+  "main_menu": {
+    "riepilogo": "Summary",
+    "sessioni": "Sessions",
+    "esche": "Baits",
+    "rig": "Rigs",
+    "canne": "Rods",
+    "itinerari": "Itineraries",
+    "stream_catture": "Catches stream",
+    "collegamenti": "Connections",
+    "statistiche": "Statistics",
+    "profilo": "Profile",
+    "personalizza": "Customize"
+  },
+  "profile_page": {
+    "title": "Personal informations",
+    "profile_form_title": "Profile",
+    "img_profile_title": "Change profile photo",
+    "display_name": "Display name",
+    "biography": "Biography",
+    "update_profile": "Update profile"
+  },
+  "common_errors": {
+    "required_field": "Required"
+  }
+}
